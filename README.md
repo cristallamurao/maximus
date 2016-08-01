@@ -1,2 +1,2 @@
 # maximus v1.0
-This is a personal project to support Windows and Doors Installation companies.
+View this project at http://maximusweb.azurewebsites.net/pages/dashboard.html
